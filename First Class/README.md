@@ -10,7 +10,7 @@
 3. 建立Anaconda虛擬環境，以下為操作時常用的指令：
    ```shell
    conda env list  # 查看已建立的虛擬環境
-   conda create -n learningEnv python=3.12  # 建立虛擬環境，learningEnv是環境名稱
+   conda create -n learningEnv python=3.12  # 建立虛擬環境，learningEnv是環境名稱，3.12是python的發行版本
    conda activate learningEnv  # 啟動虛擬環境
    conda deactivate  # 離開虛擬環境
    conda env remove --name learningEnv --all  # 刪除虛擬環境
