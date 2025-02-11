@@ -9,8 +9,10 @@
    ```shell
    pip install opencv-python
    ```
-2. 修改openFile.py程式中的檔案路徑。
+2. 修改openImage.py、openVideo.py程式中的檔案路徑。
 2. 使用終端機，使用以下指令，嘗試是開啟一張圖片。
    ```shell
-   python openFile.py 
+   python openImage.py  # 顯示圖片
+   python openVideo.py  # 顯示影片
+   python openCamera.py  # 開啟攝影機 
    ```
