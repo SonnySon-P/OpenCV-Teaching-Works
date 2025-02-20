@@ -29,7 +29,6 @@ while True:
     # 顯示影片
     cv2.imshow("VideoView", grayFrame)  # 使用名為VideoView的視窗標題名稱，顯示每一幀畫面
 
-
 # 儲存轉換後的灰階影像
 cv2.imwrite(outputPath, grayImage)
 
