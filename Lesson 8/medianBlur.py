@@ -3,7 +3,7 @@ import cv2
 # 輸入影像檔案的路徑
 imagePath = "image.jpg"
 
-# 讀取圖檔
+# 讀取影像
 image = cv2.imread(imagePath)
 
 # 中值模糊(使用像素點周圍灰度值的中值，來代替該像素點的灰度值)
