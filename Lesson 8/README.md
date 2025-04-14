@@ -1,13 +1,10 @@
-# 課程一
+# 課程八
 
-**教學主題：** 平交道的警示燈
+**一、教學主題：** OpenCV的影像模糊化和濾波
 	
-**目的：** 學習善用GPIO引腳及time.sleep等指令，控制LED燈泡。
+**二、目的：** 學習如何透過OpenCV，用來改善影像質量、去除噪聲、突顯特徵，或者達到某些特定的效果。
 
-**操作解說：** 線路配置如下圖所示：
-
-<br>
-<div align="center">
-	<img src="./Wokwi截圖.png" alt="Editor" width="500">
-</div>
-<br>
+**三、教學解說：** 範例程式分別如下：
+1. bilateralFilter.py： 影像濾波。
+2. blur.py： 影像模糊化。
+3. gaussianBlur.py： 影像模糊化。
