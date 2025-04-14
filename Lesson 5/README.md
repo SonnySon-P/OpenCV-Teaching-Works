@@ -1,13 +1,10 @@
-# 課程一
+# 課程五
 
-**教學主題：** 平交道的警示燈
+**一、教學主題：** OpenCV的影像處理
 	
-**目的：** 學習善用GPIO引腳及time.sleep等指令，控制LED燈泡。
+**二、目的：** 學習如何透過OpenCV函式，進行影像處理。
 
-**操作解說：** 線路配置如下圖所示：
-
-<br>
-<div align="center">
-	<img src="./Wokwi截圖.png" alt="Editor" width="500">
-</div>
-<br>
+**三、教學解說：** 範例程式分別如下：
+1. negative.py： 負片效果。
+2. binarization.py： 二值化。
+3. contrast.py： 調整影像的對比和亮度。
