@@ -1,7 +1,7 @@
 import cv2
 
 # 輸入影片檔案的路徑
-imagePath = "image.jpg"
+imagePath = "*.jpg"
 
 # 讀取圖檔
 image = cv2.imread(imagePath)
