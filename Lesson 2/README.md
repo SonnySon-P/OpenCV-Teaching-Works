@@ -5,9 +5,9 @@
 **二、目的：** 學習善用OpenCV基本開啟、顯示跟儲存等指令，針對圖片、影片跟攝影機進行操作。
 
 **三、教學解說：** 題目主要有四題，分別如下：
-1. openImage.py：開啟圖片。
-2. openVideo.py：開啟影片，也學習幀的概念。
-3. openCamera.py：開啟攝影機。
-4. saveImage.py：儲存圖片，也學習改變圖片色彩。
-5. saveVideo.py：儲存影片，也學習幀的概念。
-6. saveCamera.py：儲存攝影機，也學習定義影片基本參數，儲存影片。
+1. openImage.py： 開啟圖片。
+2. openVideo.py： 開啟影片，也學習幀的概念。
+3. openCamera.py： 開啟攝影機。
+4. saveImage.py： 儲存圖片，也學習改變圖片色彩。
+5. saveVideo.py： 儲存影片，也學習幀的概念。
+6. saveCamera.py： 儲存攝影機，也學習定義影片基本參數，儲存影片。
