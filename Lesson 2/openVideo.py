@@ -1,7 +1,7 @@
 import cv2
 
 # 輸入影片檔案的路徑
-videoPath = "output.mp4"
+videoPath = "*.mp4"
 
 # 使用openCV開啟影片
 cap = cv2.VideoCapture(videoPath)  # 替換為您的影片檔案路徑
