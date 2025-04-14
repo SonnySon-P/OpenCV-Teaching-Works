@@ -1,13 +1,10 @@
-# 課程一
+# 課程七
 
-**教學主題：** 平交道的警示燈
+**一、教學主題：** OpenCV的邊緣偵測
 	
-**目的：** 學習善用GPIO引腳及time.sleep等指令，控制LED燈泡。
+**二、目的：** 學習如何透過OpenCV，進行圖像邊緣偵測。
 
-**操作解說：** 線路配置如下圖所示：
-
-<br>
-<div align="center">
-	<img src="./Wokwi截圖.png" alt="Editor" width="500">
-</div>
-<br>
+**三、教學解說：** 範例程式分別如下：
+1. canny.py。
+2. laplacian.py。
+3. sobel.py。
